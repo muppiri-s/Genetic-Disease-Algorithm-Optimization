@@ -4,15 +4,15 @@ The paper uses two input text data files: the first dataset which consists of th
 Overall code: 20.73 minutes
 
 Break down:
-Algorithm1: 16.4 mins
-Algorithm2: 7.21 secs
-Algorithm3: 16.28 mins 
+1. Algorithm1: 16.4 mins
+2. Algorithm2: 7.21 secs
+3. Algorithm3: 16.28 mins 
 Overall code: 20.73 mins (Combined time of algorithm 1 2, and 3)
 
 
 After using parallel library in R. 
 Code type	Execution Time
-Parallel (32 cores)	3.47 minutes  (208.688) seconds
-Parallel (64 cored)	1.657 minutes (99.436 seconds)
+1. Parallel (32 cores)	3.47 minutes  (208.688) seconds
+2. Parallel (64 cored)	1.657 minutes (99.436 seconds)
 
 Reduced the code execution time to more than half. 
